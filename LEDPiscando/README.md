@@ -42,4 +42,4 @@ void loop() {
 }
 ````
 
-<img src="LEDPiscando/circuit.png" alt="Embedded Video Streaming Project" width="300">
+<img src="circuit.png" alt="Embedded Video Streaming Project" width="300">
