@@ -40,3 +40,6 @@ void loop() {
   // Aguarda mais 500 milissegundos
   delay(500);
 }
+````
+
+<img src="LED Piscando/circuit.png" alt="Embedded Video Streaming Project" width="300">
