@@ -63,4 +63,5 @@ void loop() {
   Serial.println(distance);
   delay(100);
 }
+````
 <img src="img1.png" alt="Ligação Sensor de Ultrasom" width="800">
